@@ -66,8 +66,12 @@ python main.py
 1. Launch the application.
 2. Drag your Super Folder (main skins folder) into the window.
 3. Use the search bar at the bottom of the main window to quickly jump to a champion folder. Partial matches are supported.
+<img width="309" height="408" alt="image1" src="https://github.com/user-attachments/assets/b7717dd7-4201-4275-afab-c6509239c8a3" />
+
 4. Scroll through the champions and click a champion name to open their skins.
 5. In the champion window, click a skin name, and then the chroma you want.
+<img width="269" height="323" alt="image2" src="https://github.com/user-attachments/assets/0117d021-6ca6-476f-9139-9720c892453f" />
+
 6. Click any image or file name to open File Explorer highlighting the corresponding file.
 
 ## Dependencies
@@ -75,7 +79,7 @@ python main.py
 * [Pillow](https://pillow.readthedocs.io/en/stable/) - for image handling
 * [requests](https://pypi.org/project/requests/)  – to fetch images from URLs
 * [tkinterdnd2](https://pypi.org/project/tkinterdnd2/)
-* [darkseal-org skins folder](https://github.com/darkseal-org/lol-skins/tree/main/skins) this is the Super Folder
+* [darkseal-org skins folder](https://github.com/darkseal-org/lol-skins/tree/main/skins) this is the Super Folder containing the champion skin folders
 
 ## License
 ```text
