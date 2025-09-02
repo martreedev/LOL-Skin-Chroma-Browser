@@ -1,7 +1,8 @@
 # LoL Skin Chroma Browser
 
 A Python GUI tool for browsing **darkseal-org/lol-skins chromas**. This application allows you to preview skins, view images directly from README files, and quickly open the corresponding skin files in File Explorer.
-
+## Download
+[https://github.com/martreedev/LOL-Skin-Chroma-Browser/releases/tag/release](https://github.com/martreedev/LOL-Skin-Chroma-Browser/releases/tag/release)
 
 ## Overview
 
@@ -69,10 +70,14 @@ python main.py
 <img width="309" height="408" alt="image1" src="https://github.com/user-attachments/assets/b7717dd7-4201-4275-afab-c6509239c8a3" />
 
 4. Scroll through the champions and click a champion name to open their skins.
-5. In the champion window, click a skin name, and then the chroma you want.
+5. In the champion window, click a skin name.
+
 <img width="269" height="323" alt="image2" src="https://github.com/user-attachments/assets/0117d021-6ca6-476f-9139-9720c892453f" />
 
-6. Click any image or file name to open File Explorer highlighting the corresponding file.
+6. Click the chroma you want.
+<img width="269" height="323" alt="image1" src="https://github.com/user-attachments/assets/a8db8ffd-5ec6-4ba7-a516-bd29b1f69290" />
+
+7. Click any image or file name to open File Explorer highlighting the corresponding file.
 
 ## Dependencies
 * [Python 3.10+](https://www.python.org/)
